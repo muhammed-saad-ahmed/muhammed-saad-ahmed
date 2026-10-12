@@ -33,8 +33,18 @@ My long-term goal is a **Bachelor's degree in Aerospace Engineering** at an inte
 | **Ambition** | B.Sc. Aerospace Engineering, international university |
 | **Core skills** | Python, SQL, Data Pipelines, Cloud (AWS), Data Warehousing |
 | **Interests** | Aerodynamics, aircraft design, propulsion, flight mechanics, AI |
-| **Languages** | Urdu, English (actively improving) |
 | **Location** | Karachi, Pakistan |
+
+<br/>
+
+## Currently
+
+| | |
+|:--|:--|
+| **Learning** | Artificial intelligence, data science and cybersecurity |
+| **Building** | AI-powered learning tools and urban intelligence prototypes |
+| **Improving** | English communication and hands-on engineering experience |
+| **Seeking** | Mentors, collaborators and meaningful projects |
 
 <br/>
 
@@ -68,7 +78,7 @@ My long-term goal is a **Bachelor's degree in Aerospace Engineering** at an inte
 |:--|:--|
 | **Data Engineering** | Pipelines, ETL / ELT, automation, data warehousing |
 | **Cloud** | AWS infrastructure, S3 storage, Snowflake warehousing |
-| **Streaming & Orchestration** | Apache Kafka, Apache Airflow |
+| **Streaming and Orchestration** | Apache Kafka, Apache Airflow |
 | **Databases** | SQL, MySQL, SQLite |
 | **Data Analysis** | Python, Pandas, NumPy |
 
@@ -79,11 +89,10 @@ My long-term goal is a **Bachelor's degree in Aerospace Engineering** at an inte
 | Project | Overview | Stack |
 |:--|:--|:--|
 | [**Tadabbur AI**](https://github.com/muhammed-saad-ahmed/Tadabbur-AI) | AI-powered educational application focused on conceptual learning, visual explanations and real graphs. | Python |
-| [**Karachi Pulse**](https://github.com/muhammed-saad-ahmed/Karachi-infrastructure-intelligence) | Low-cost AI research prototype for urban infrastructure intelligence and risk analysis, using computer vision, geospatial analysis and transparent risk scoring. | Python |
+| [**Karachi Pulse**](https://github.com/muhammed-saad-ahmed/Karachi-infrastructure-intelligence) | Low-cost AI research prototype for urban infrastructure intelligence and risk analysis, combining computer vision, geospatial analysis and transparent risk scoring. | Python |
+| [**Free Python Programming Course**](https://github.com/muhammed-saad-ahmed/Free-Python-Programming-Course) | Hands-on course covering fundamentals, problem solving, NumPy, Pandas and Matplotlib with lessons, examples and exercises. | Jupyter Notebook |
 | **Cloud Data Engineering** | Automated data pipelines with Kafka-based streaming, cloud storage and warehousing. | S3, Snowflake, Kafka |
 | **Mini Data Warehouse** | Data processing, storage and visualization project with an interactive dashboard. | Python, Pandas, SQLite, Streamlit |
-| **Savoraise** | Food-rescue marketplace concept: affordable produce for consumers, less food waste for sellers. | Concept |
-| [**Free Python Programming Course**](https://github.com/muhammed-saad-ahmed/Free-Python-Programming-Course) | Hands-on course covering fundamentals, problem solving, NumPy, Pandas and Matplotlib. | Jupyter Notebook |
 
 <br/>
 
